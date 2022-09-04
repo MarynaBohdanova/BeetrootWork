@@ -14,6 +14,9 @@ namespace BeetrootWork
 
             string message3 = "Resolve conflict";
             Console.WriteLine(message3);
+
+            string message4 = "test";
+            Console.WriteLine(message4);
         }
     }
 }
