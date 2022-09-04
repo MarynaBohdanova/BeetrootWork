@@ -6,7 +6,8 @@ namespace BeetrootWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string message = "Step 1 : Create your own repository, commit any C# program to this repository";
+            Console.WriteLine(message);
         }
     }
 }
