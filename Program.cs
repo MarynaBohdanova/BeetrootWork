@@ -14,6 +14,9 @@ namespace BeetrootWork
 
             string message3 = "Create new branch, merge changes from master, add smth to new branch";
             Console.WriteLine(message3);
+
+            string message4 = "test";
+            Console.WriteLine(message4);
         }
     }
 }
