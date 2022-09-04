@@ -7,6 +7,7 @@ namespace BeetrootWork
         public void MyChanges()
         {
             Console.WriteLine("Hi");
+            Console.WriteLine("Hello");
         }
     }
 }
