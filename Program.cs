@@ -17,6 +17,9 @@ namespace BeetrootWork
 
             string message4 = "test";
             Console.WriteLine(message4);
+
+            string message5 = "test 'merge new branche' is done from master";
+            Console.WriteLine(message4);
         }
     }
 }
